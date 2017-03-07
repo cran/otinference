@@ -1,0 +1,11 @@
+a4eb3f0151f00416a29f787e62770ff5 *DESCRIPTION
+39ba65c64cbd8e7ec430d27515faf03a *NAMESPACE
+874a665d4ac119b5f82d546a6e6aa318 *R/binTest.R
+835a4ea0e3f5001219218ea6258c6b20 *R/limDis.R
+6de5b7ceb9884e533b92e3246ad8c26e *R/wassDist.R
+973123b71cf7032b0d747f58fe81a4c6 *man/binWDTest.Rd
+2c1a6bfe5a5cb0f452fb78399d2f3797 *man/limDisAlt.Rd
+a769a2d44dc7cae0916b09a430b8827b *man/limDisAltBoot.Rd
+18f156a8059aa9951b27dff0a05137f8 *man/limDisNull.Rd
+0184ef6f3e99cd246eb990fdf3f6a320 *man/limDisNullGrid.Rd
+bef785e80c92aae0e68f904cff421036 *man/wassDist.Rd
